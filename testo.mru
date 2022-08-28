@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:0 type="stream" channelId="2215" logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Canali RAI", Rai 1 HD
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
 #EXTINF:0 type="stream" channelId="2216" http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" group-title="Canali RAI", Rai 2 HD
