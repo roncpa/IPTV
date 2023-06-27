@@ -25,15 +25,23 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1074677376217427968/C9GfHiLI.jpg" group-title="Tv Italia", Tv8
 https://www.mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Rai_4_HD_Logo.png" group-title="Canali Rai", Rai 4
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:audio-track-id=6
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dEFPWi8.png" group-title="Canali Rai", Rai 5 
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:audio-track-id=6
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/111-1119556_rai-movie-hd-rai-news-24-logopedia.png" group-title="Canali Rai", Rai Movie 
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:audio-track-id=6
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rai_Premium_HD_-_Logo_2017.svg/1200px-Rai_Premium_HD_-_Logo_2017.svg.png" group-title="Canali Rai", Rai Premium 
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16
 #EXTINF:-1 tvg-logo="https://www.digitaleterrestrefacile.it/wp-content/uploads/2020/05/che-canale-e-rai-scuola-frequenza-rai-play.jpg" group-title="Canali Rai", Rai Scuola 
-http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
 #EXTINF:-1 tvg-logo="https://www.unoetre.it/images/cronache_flim-tv-web/raistoria_350.jpg" group-title="Canali Rai", Rai Storia 
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7
 #EXTINF:-1 tvg-logo="http://tv.10dailythings.com/images/channels/UNS/rai-italia-asia-576p/normal.png" group-title="Canali Rai", Rai Italia
@@ -49,9 +57,11 @@ https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ki)/mani
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italia-2-3k4y9ky8oj8f.png" group-title="Mediaset", Italia 2
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(i2)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/260px-La5_Italy.svg.png" group-title="Mediaset", La 5
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ka)/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/mediaset-extra-pinz1jwpnlj3.png" group-title="Mediaset", Mediaset Extra
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/top-crime-s4a5ci5m7mkd.png" group-title="Mediaset", Top Crime
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(lt)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.01smartlife.it/wp-content/uploads/sites/41/2022/01/mediaset-27-696x430.jpg" group-title="Mediaset", TwentySeven
@@ -73,7 +83,9 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_24
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sky_TG24_-_Logo_2018.svg/1280px-Sky_TG24_-_Logo_2018.svg.png" group-title="Notizie", Sky TG24
 https://www.mytivu.it/Application/Channels/SkyTG24.php
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgcom24.png" group-title="Notizie", TgCom 24
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kf)/manifest.mpd
+#EXTINF:-1,[51] TGCOM 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
 #EXTINF:-1 tvg-logo="https://24tv.ua/assets/sites/24/homescreen512.png" group-title="Notizie", 24 КАНАЛ Ukraina
 http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/gm-24.JPG" group-title="Tv Italia", GM24
