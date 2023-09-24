@@ -29,7 +29,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Rai_4_HD_Logo.png" group-title="Canali Rai", Rai 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:audio-track-id=6
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dEFPWi8.png" group-title="Canali Rai", Rai 5 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:audio-track-id=6
