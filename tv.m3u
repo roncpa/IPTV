@@ -89,7 +89,7 @@ http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
 https://streaming.softwarecreation.it/GM24/GM24/.m3u8
 #EXTINF:-1 tvg-logo="https://www.uominiedonnecomunicazione.com/wp-content/uploads/2018/06/QVC-Italia.jpg" group-title="Tv Italia", QVC Italia
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/2/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele2000.png" group-title="Tv Italia", Tv2000
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/512px-Logo_tv2000_2015.svg.png" group-title="Tv Italia", Tv2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/608aa7d8359b270007861489/featuredImage.jpg" group-title="Pluto Tv", Cinema Italiano
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
