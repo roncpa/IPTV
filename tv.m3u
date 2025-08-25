@@ -24,7 +24,7 @@ https://www.mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1 tvg-name="Cielo" tvg-logo="https://static.sky.it/static_clientlibs/skycielo/clientlibs/clientlib-site/resources/images/facebook.jpg" group-title="Tv Italia", Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.png" group-title="Discovery", Motor Trend
-https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
+https://jmp2.uk/stvp-IT900004Y5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/512px-Logo_tv2000_2015.svg.png" group-title="Tv Italia", Tv2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-id="Rai4K.it" tvg-chno="21" tvg-logo="https://i.imgur.com/nck2F3W.png" group-title="Canali Rai", Rai 4k
@@ -685,3 +685,4 @@ http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_C
 http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/5844897_1800.mp4
 #EXTINF:-1 tvg-logo="https://www.teleuniverso.it/wp-content/uploads/2020/01/Logo-TG-Universo.jpg" group-title="Notiziario", Ultimo TgUniverso
 https://www.teleuniverso.tv/VIDEO/TG/TGTU.mp4
+
