@@ -22,7 +22,7 @@ https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1074677376217427968/C9GfHiLI.jpg" group-title="Tv Italia", Tv8
 https://www.mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1 tvg-name="Cielo" tvg-logo="https://static.sky.it/static_clientlibs/skycielo/clientlibs/clientlib-site/resources/images/facebook.jpg" group-title="Tv Italia", Cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.png" group-title="Discovery", Motor Trend
 https://jmp2.uk/stvp-IT900004Y5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/512px-Logo_tv2000_2015.svg.png" group-title="Tv Italia", Tv2000
